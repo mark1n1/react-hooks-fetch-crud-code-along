@@ -7,12 +7,6 @@
       "isInCart": false
     },
     {
-      "id": 2,
-      "name": "Pomegranate",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
       "id": 3,
       "name": "Lettuce",
       "category": "Produce",
@@ -35,6 +29,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Cookie",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
